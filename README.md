@@ -1,2 +1,2 @@
-# dollar
+# Dollar
 My first Repository
